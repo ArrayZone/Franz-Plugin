@@ -1,0 +1,21 @@
+{
+  "name": "ArrayZone Hosting Tool",
+  "version": "0.0.1",
+  "description": "ArrayZone Hosting Tool Director.",
+  "main": "index.js",
+  "author": "KytoSenna",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://panel.arrayzone.com:4443/",
+    "serviceName": "ArrayZone Hosting Services",
+    "message": "",    
+	"popup": [],
+    "hasNotificationSound": false,
+    "hasedirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {},
+    "openDevTools": false
+  }
+}
